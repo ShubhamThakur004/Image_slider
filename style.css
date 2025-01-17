@@ -1,0 +1,11 @@
+body{
+    background-color: aqua;
+    border: 2px solid rgb(154, 40, 40);
+    color: aqua;
+}
+
+img{
+    height: 35rem;
+    padding: 2rem;
+    aspect-ratio: 3/2;
+}
